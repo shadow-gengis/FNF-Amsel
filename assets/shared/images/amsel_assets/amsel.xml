@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amsel.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amsel down0000" x="0" y="0" width="510" height="782" frameX="-121" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0001" x="0" y="0" width="510" height="782" frameX="-121" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0002" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0003" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0004" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0005" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0006" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0007" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0008" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel down0009" x="510" y="0" width="600" height="763" frameX="0" frameY="0" frameWidth="631" frameHeight="782"/>
+	<SubTexture name="amsel idle0000" x="1110" y="0" width="516" height="797"/>
+	<SubTexture name="amsel idle0001" x="1110" y="0" width="516" height="797"/>
+	<SubTexture name="amsel idle0002" x="1626" y="0" width="484" height="785" frameX="-32" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0003" x="1626" y="0" width="484" height="785" frameX="-32" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0004" x="2110" y="0" width="459" height="775" frameX="-57" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0005" x="2110" y="0" width="459" height="775" frameX="-57" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0006" x="2569" y="0" width="448" height="768" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0007" x="2569" y="0" width="448" height="768" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0008" x="3017" y="0" width="448" height="765" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0009" x="3017" y="0" width="448" height="765" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0010" x="3017" y="0" width="448" height="765" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0011" x="3017" y="0" width="448" height="765" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0012" x="3017" y="0" width="448" height="765" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel idle0013" x="3017" y="0" width="448" height="765" frameX="-68" frameY="-1" frameWidth="516" frameHeight="797"/>
+	<SubTexture name="amsel left0000" x="3465" y="0" width="512" height="765"/>
+	<SubTexture name="amsel left0001" x="3465" y="0" width="512" height="765"/>
+	<SubTexture name="amsel left0002" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0003" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0004" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0005" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0006" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0007" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0008" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel left0009" x="0" y="797" width="487" height="763" frameX="0" frameY="0" frameWidth="512" frameHeight="765"/>
+	<SubTexture name="amsel right0000" x="487" y="797" width="634" height="781"/>
+	<SubTexture name="amsel right0001" x="487" y="797" width="634" height="781"/>
+	<SubTexture name="amsel right0002" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0003" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0004" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0005" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0006" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0007" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0008" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel right0009" x="1121" y="797" width="603" height="763" frameX="0" frameY="-8" frameWidth="634" frameHeight="781"/>
+	<SubTexture name="amsel up0000" x="1724" y="797" width="477" height="819"/>
+	<SubTexture name="amsel up0001" x="1724" y="797" width="477" height="819"/>
+	<SubTexture name="amsel up0002" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0003" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0004" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0005" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0006" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0007" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0008" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+	<SubTexture name="amsel up0009" x="2201" y="797" width="448" height="772" frameX="0" frameY="-28" frameWidth="477" frameHeight="819"/>
+</TextureAtlas>
